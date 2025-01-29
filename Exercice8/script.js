@@ -1,5 +1,5 @@
 
-// Exercice 7
+// Exercice 8
 
     //Création d'une fonction
     // function checkPassword(string) {
