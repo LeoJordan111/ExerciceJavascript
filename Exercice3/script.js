@@ -10,3 +10,18 @@
     } else {
         console.log("liquide");
     }
+
+    function etat(temp) {
+        etatEau = ''
+        if (temp < 0) {
+            etatEau = "Solide";
+        } else if (temp > 100) {
+            etatEau = "gaz";
+        } else {
+            etatEau = "liquide";
+        }
+        return etatEau
+    }   
+
+    console.log(etat(50));
+    

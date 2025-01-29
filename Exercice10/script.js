@@ -1,5 +1,5 @@
 
-// Exercice 10
+// Exercice 11
 
 // faire une fonction afin d'inverser une chaine de caractère.
 
