@@ -1,5 +1,5 @@
 
-// Exercice 10
+// Exercice 11
 
 // faire une fonction pour vérifier si une chaîne de caractères est un "Pangram"
         //str = 'abcdefghijklmnopqrstuvwxyz'
